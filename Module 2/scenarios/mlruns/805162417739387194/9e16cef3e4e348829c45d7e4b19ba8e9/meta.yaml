@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ivanivanov/Documents/mlops-zoomcamp/Module%202/scenarios/mlruns/805162417739387194/9e16cef3e4e348829c45d7e4b19ba8e9/artifacts
+end_time: 1715773597880
+entry_point_name: ''
+experiment_id: '805162417739387194'
+lifecycle_stage: active
+run_id: 9e16cef3e4e348829c45d7e4b19ba8e9
+run_name: redolent-seal-595
+run_uuid: 9e16cef3e4e348829c45d7e4b19ba8e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715773596009
+status: 3
+tags: []
+user_id: ivanivanov
