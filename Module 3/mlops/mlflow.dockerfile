@@ -8,5 +8,5 @@ CMD [ \
     "mlflow", "server", \
     "--backend-store-uri", "sqlite:///home/mlflow/mlflow.db", \
     "--host", "0.0.0.0", \
-    "--port", "5050" \
+    "--port", "5000" \
 ]
